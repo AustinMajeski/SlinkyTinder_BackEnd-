@@ -1,0 +1,3 @@
+https://github.com/fdromero32/Rails-Instructions
+
+- generate command:  rails generate resource Profile name:string material:string shape:string description:text
